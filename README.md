@@ -5,3 +5,4 @@
 *Learn how to create a markdown file 
 *Every project has to have a README.md file 
 *Learn how to generate a SSH Key
+*Learn how to create a new Branch and switch between branches
